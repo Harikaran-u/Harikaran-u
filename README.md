@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdmZTBkNTllNmRmY2RiMGEyMGJjOGU0M2UyN2Y3NzU5ZGYxOGU3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **Crypto Currency App**
+- 🔭At present I'm working on **Social Media App**
 
-- 🌱 I’m currently learning **NextJs, React Native, Typescript**
+- 🌱At Present I'm Learning **NextJs, React Native, Typescript**
 
 - 💬 Ask me about **JavaScript, React, NodeJs**
 
