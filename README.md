@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdmZTBkNTllNmRmY2RiMGEyMGJjOGU0M2UyN2Y3NzU5ZGYxOGU3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭At present I'm working on **Social Media App**
+- 🔭My current project is **FM Radio App**
 
-- 🌱At Present I'm Learning **NextJs, React Native, Typescript**
+- 🌱Currently learning **MongoDB**
 
-- 💬 Ask me about **JavaScript, React, NodeJs**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sanjuhari971@gmail.com**
 
