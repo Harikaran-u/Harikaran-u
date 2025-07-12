@@ -1,16 +1,7 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Harikaran U</h1>
-<h3 align="center">An Aspiring Full Stack Developer</h3>
+<h3 align="center">Junior Software Developer at itdesign Meisterplan India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdmZTBkNTllNmRmY2RiMGEyMGJjOGU0M2UyN2Y3NzU5ZGYxOGU3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-- 🔭Currently working on **Blog App**
-
-- 🌱Currently learning **TypeScript**
-
-- 💬 Ask me about **MERN**
-
-- 📫 Reach me at **sanjuhari971@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
